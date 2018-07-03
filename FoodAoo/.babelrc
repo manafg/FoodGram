@@ -1,0 +1,6 @@
+{
+  "presets": ["react-native"],
+  "plugins": [
+    "ransform-decorators-legacy"
+  ]
+}
